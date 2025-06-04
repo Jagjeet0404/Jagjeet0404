@@ -1,5 +1,7 @@
 H, I'm Jajgjeet Rawat
+
 👀 I’m interested in software developer
+
 🌱 I’m currently learning c++
   
 <!---
