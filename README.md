@@ -1,4 +1,4 @@
-H, I'm Jajgjeet Rawat
+Hi,I'm Jajgjeet Rawat
 
 👀 I’m interested in software developer
 
